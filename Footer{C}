@@ -1,0 +1,15 @@
+  <!--  Footer  -->
+  <footer>
+  
+  </footer>
+  <!--  Pagination  -->
+  <nav aria-label="Standard Footer page navigation">
+    <ul class="pagination">
+      <li class="page-item"><a class="page-link" href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span> Previous</a></li>
+      <li class="page-item"><a class="page-link" href="#"><i class="fas fa-check-double"></i>One</a></li>
+      <li class="page-item"><a class="page-link" href="#">Two</a></li>
+      <li class="page-item"><a class="page-link" href="#">Three</a></li>
+      <li class="page-item"><a class="page-link" href="#">Four</a></li>
+      <li class="page-item"><a class="page-link" href="/Next" aria-label="Next">Next <span aria-hidden="true">&raquo;</span></a></li>
+    </ul>
+  </nav>
