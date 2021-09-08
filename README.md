@@ -2,10 +2,10 @@
 #### README.md for Bananas
 
 ## My new random website
-_Built with html, and css;_
+_Built with html and css;_
 
 # **Core:**
-##{Navigation}
+## {Navigation}
 * [ ] Home
 * [ ] Greet
  * [ ] Blogs
@@ -14,7 +14,7 @@ _Built with html, and css;_
   * [ ] Stories
  * [ ] Article
  * [ ] Quotes
- ---
+* ~ ~ ~ ~ ~
  * [ ] Adventures
  * [ ] Guide
 * [ ] Resources
@@ -23,7 +23,7 @@ _Built with html, and css;_
  * references
 * [ ] Photography
  * [ ] Gallery
- ---
+* ~ ~ ~ ~ ~
  * [ ] Exercises
 * [ ] Mission
  * [ ] About
@@ -32,3 +32,5 @@ _Built with html, and css;_
 ----
 ### ++ Components 
 ### ++ Styles
+
+#### Thanks to Bootstrap the display is magnificent as well as promising. 
