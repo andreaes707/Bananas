@@ -22,13 +22,15 @@
           <li class="nav-item">
             <a class="nav-link active bg-dark" aria-current="page" href="#">Home</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item dropend">
             <a id="blogDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">Blog</a>
-            <ul class="dropdown-menu-end text-center mx-auto" aria-labelledby="blogDrop">
+            <ul class="dropdown-menu text-center mx-auto" aria-labelledby="blogDrop">
               <li><a class="dropdown-item" href="/blogGreet.html">Blog</a></li>
               <li><a class="dropdown-item" href="/Articles.html">Articles</a></li>
+              <li class="dropdown-divider"></li>
               <li><a class="dropdown-item" href="/Guide.html">Guide</a></li>
             </ul>
+          </li>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/Resources.html">Resources</a>
@@ -63,7 +65,7 @@
     <!-- Content Here  -->
 
     <!-- Footer Here -->
-
+    
     <!-- JS and Popper Scripts -->
     <script src="C:\Users\Conco\Documents\Docs\C\Styles\Bootstrap\js\bootstrap.bundle.min.js" charset="utf-8"></script>
   </body>
