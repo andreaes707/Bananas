@@ -10,21 +10,10 @@
     <link rel="stylesheet" href="C:\Users\Conco\Documents\Docs\C\Master02\Styles\Bv5\css\bootstrap-grid.min.css.map">
   </head>
   <body class="justify-content-evenly overflow-scroll me-auto mx-auto p-2">
-    <!-- Navigation Here
-    <nav>
-      <ul id="Top" class="nav nav-pills flex-column flex-md-row nav-justified">
-        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="/Core/Home">Home</a></li>
-        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="/Core/Blog">Blog</a></li>
-        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="/Core/Resources">Resources</a></li>
-        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center active bg-danger" href="/Core/Photography">Photography</a></li>
-        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="/Core/About">About</a></li>
-        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="#Bottom"><i class="fas fa-angle-double-down"></i> Bottom</a></li>
-      </ul>
-    </nav>
-  -->
+    <!-- Navigation Here  -->
   <nav class="navbar navbar-expand-lg text-align-center align-items-center justify-content-evenly navbar-dark bg-danger">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Navigation</a>
+      <a class="navbar-brand" href="#">Site Navigation</a>
       <button class="btn btn-lg btn-outline-dark navbar-toggler" type="button" name="navButton" data-bs-toggle="collapse" data-bs-target="#navBar" aria-controls="navBar" aria-expanded="false" aria-label="Toggle Navigation">
         <i class="fas fa-biohazard"></i>
       </button>
@@ -34,26 +23,31 @@
             <a class="nav-link active bg-dark" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Blog</a>
+            <a id="blogDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">Blog</a>
+            <ul class="dropdown-menu-end text-center mx-auto" aria-labelledby="blogDrop">
+              <li><a class="dropdown-item" href="/blogGreet.html">Blog</a></li>
+              <li><a class="dropdown-item" href="/Articles.html">Articles</a></li>
+              <li><a class="dropdown-item" href="/Guide.html">Guide</a></li>
+            </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Resources</a>
+            <a class="nav-link" href="/Resources.html">Resources</a>
           </li>
           <li class="nav-item dropdown">
             <a id="photoDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">Photography</a>
             <ul class="dropdown-menu text-center mx-auto" aria-labelledby="photoDrop">
-              <li><a class="dropdown-item" href="#">Gallery</a></li>
+              <li><a class="dropdown-item" href="/Gallery.html">Gallery</a></li>
               <li class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#">Exercises</a></li>
+              <li><a class="dropdown-item" href="/Exercises.html">Exercises</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
             <a id="missionDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">About</a>
             <ul class="dropdown-menu text-center mx-auto" aria-labelledby="missionDrop">
-              <li><a class="dropdown-item" href="#">Mission</a></li>
-              <li><a class="dropdown-item" href="#">About</a></li>
+              <li><a class="dropdown-item" href="/missionStart.html">Mission</a></li>
+              <li><a class="dropdown-item" href="/aboutMe.html">About</a></li>
               <li class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#">Templates</a></li>
+              <li><a class="dropdown-item" href="/Templates.html">Templates</a></li>
             </ul>
           </li>
         </ul>
