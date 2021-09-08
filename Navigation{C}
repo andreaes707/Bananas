@@ -28,6 +28,8 @@
               <li><a class="dropdown-item" href="/blogGreet.html">Blog</a></li>
               <li><a class="dropdown-item" href="/Articles.html">Articles</a></li>
               <li class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="/Quotes.html">Quotes</a></li>
+              <li class="dropdown-divider"></li>
               <li><a class="dropdown-item" href="/Guide.html">Guide</a></li>
             </ul>
           </li>
