@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width;shrink-to-fit=no;">
+    <meta name="developer/author" content="Alison Concordia">
+    <title>Navigation</title>
+    <link rel="stylesheet" href="C:\Users\Conco\Documents\Docs\C\Master02\Styles\FA\css\all.min.css">
+    <link rel="stylesheet" href="C:\Users\Conco\Documents\Docs\C\Master02\Styles\Bv5\css\bootstrap.min.css">
+    <link rel="stylesheet" href="C:\Users\Conco\Documents\Docs\C\Master02\Styles\Bv5\css\bootstrap-grid.min.css.map">
+  </head>
+  <body class="justify-content-evenly overflow-scroll me-auto mx-auto p-2">
+    <!-- Navigation Here
+    <nav>
+      <ul id="Top" class="nav nav-pills flex-column flex-md-row nav-justified">
+        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="/Core/Home">Home</a></li>
+        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="/Core/Blog">Blog</a></li>
+        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="/Core/Resources">Resources</a></li>
+        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center active bg-danger" href="/Core/Photography">Photography</a></li>
+        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="/Core/About">About</a></li>
+        <li class="nav-item"><a class="nav-link flex-md-fill text-md-center" href="#Bottom"><i class="fas fa-angle-double-down"></i> Bottom</a></li>
+      </ul>
+    </nav>
+  -->
+  <nav class="navbar navbar-expand-lg text-align-center align-items-center justify-content-evenly navbar-dark bg-danger">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Navigation</a>
+      <button class="btn btn-lg btn-outline-dark navbar-toggler" type="button" name="navButton" data-bs-toggle="collapse" data-bs-target="#navBar" aria-controls="navBar" aria-expanded="false" aria-label="Toggle Navigation">
+        <i class="fas fa-biohazard"></i>
+      </button>
+      <div id="navBar" class="collapse navbar-collapse nav-justified text-align-center align-items-center justify-content-center">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active bg-dark" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Resources</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a id="photoDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">Photography</a>
+            <ul class="dropdown-menu text-center mx-auto" aria-labelledby="photoDrop">
+              <li><a class="dropdown-item" href="#">Gallery</a></li>
+              <li class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#">Exercises</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a id="missionDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+            <ul class="dropdown-menu text-center mx-auto" aria-labelledby="missionDrop">
+              <li><a class="dropdown-item" href="#">Mission</a></li>
+              <li><a class="dropdown-item" href="#">About</a></li>
+              <li class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#">Templates</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <button class="btn btn-outline-light" type="button" name="button" aria-controls="Bottom" aria-label="Bottom"><i class="fas fa-angle-double-down"></i></button>
+    </div>
+  </nav>
+    <!-- Header Here -->
+<header>
+  <h1>Welcome</h1>
+  <p>This is completely random..</p>
+</header>
+    <!-- Content Here  -->
+
+    <!-- Footer Here -->
+
+    <!-- JS and Popper Scripts -->
+    <script src="C:\Users\Conco\Documents\Docs\C\Styles\Bootstrap\js\bootstrap.bundle.min.js" charset="utf-8"></script>
+  </body>
+</html>
