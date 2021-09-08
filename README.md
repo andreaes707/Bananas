@@ -30,7 +30,9 @@ _Built with html and css;_
  * [ ] Learn More
  * [ ] Templates
 ----
-### ++ Components 
+### ++ Components
+Basic | Extended | Advanced
+ ----
 ### ++ Styles
 
 #### Thanks to Bootstrap the display is magnificent as well as promising. 
