@@ -8,30 +8,31 @@ _Built with html and css;_
 ## {Navigation}
 * [ ] Home
 * [ ] Greet
- * [ ] Blogs
-  * [ ] Greet
-  * [ ] Recent
-  * [ ] Stories
- * [ ] Article
- * [ ] Quotes
-* ~ ~ ~ ~ ~
- * [ ] Adventures
- * [ ] Guide
-* [ ] Resources
- * glossary
- * categories
- * references
-* [ ] Photography
- * [ ] Gallery
-* ~ ~ ~ ~ ~
- * [ ] Exercises
-* [ ] Mission
- * [ ] About
- * [ ] Learn More
- * [ ] Templates
+  * [ ] Blogs
+    * [ ] Greet
+    * [ ] Recent
+   * [ ] Article
+     * [ ] Stories
+   * [ ] Quotes
+  * ~ ~ ~ ~ ~
+   * [ ] Adventures
+   * [ ] Guide
+ * [ ] Resources
+   * glossary
+   * categories
+   * references
+ * [ ] Photography
+   * [ ] Gallery
+   * ~ ~ ~ ~ ~
+   * [ ] Exercises
+ * [ ] Mission
+   * [ ] About
+   * [ ] Learn More
+   * ~ ~ ~ ~
+   * [ ] Templates
 ----
 ### ++ Components
-Basic | Extended | Advanced
+| Basic | Extended | Advanced |
  ----
 ### ++ Styles
 
