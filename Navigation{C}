@@ -2,17 +2,17 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width;shrink-to-fit=no;">
+    <meta name="viewport" content="width=device-width,shrink-to-fit=no;">
     <meta name="developer/author" content="Alison Concordia">
-    <meta name="description" content="Basic Navigation Template; No footer.">
+    <meta name="description" content="Basic Navigation Template Without Footer">
     <title>Navigation</title>
-    <link rel="stylesheet" href="/Master02/Styles/FA/css/all.min.css">
-    <link rel="stylesheet" href="/Master02/Styles/Bv5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/Master02/Styles/Bv5/css/bootstrap-grid.min.css.map">
+    <link rel="stylesheet" href="../Master02/Styles/FA/css/all.min.css">
+    <link rel="stylesheet" href="../Master02/Styles/Bv5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../Master02/Styles/Bv5/css/bootstrap-grid.min.css.map">
   </head>
   <body class="justify-content-evenly overflow-scroll me-auto mx-auto p-2">
       <!-- Site Navigation Here  -->
-  <nav class="navbar navbar-expand-lg text-align-center align-items-center justify-content-evenly navbar-dark bg-danger">
+  <nav id="Top" class="navbar navbar-expand-lg text-align-center align-items-center justify-content-evenly navbar-dark bg-danger">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Site Navigation</a>
       <button class="btn btn-lg btn-outline-dark navbar-toggler" type="button" name="navButton" data-bs-toggle="collapse" data-bs-target="#navBar" aria-controls="navBar" aria-expanded="false" aria-label="Toggle Navigation">
@@ -26,37 +26,37 @@
           <li class="nav-item dropend">
             <a id="blogDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">Blog</a>
             <ul class="dropdown-menu text-center mx-auto" aria-labelledby="blogDrop">
-              <li><a class="dropdown-item" href="/Master02/Blog/Greet/blogGreet.html">Blog</a></li>
-              <li><a class="dropdown-item" href="/Master02/Blog/Article/Articles.html">Articles</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Greet/blogGreet.html">Blog</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Article/Articles.html">Articles</a></li>
               <li class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="/Master02/Blog/Quotes/Quotes.html">Quotes</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Quotes/Quotes.html">Quotes</a></li>
               <li class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="/Master02/Blog/Guide/Guide.html">Guide</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Guide/Guide.html">Guide</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/Master02/Blog/Resources/Resources.html">Resources</a>
+            <a class="nav-link" href="../Master02/Blog/Resources/Resources.html">Resources</a>
           </li>
           <li class="nav-item dropend">
             <a id="photoDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">Photography</a>
             <ul class="dropdown-menu text-center mx-auto" aria-labelledby="photoDrop">
-              <li><a class="dropdown-item" href="/Master02/Blog/Photography/Gallery/Gallery.html">Gallery</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Photography/Gallery/Gallery.html">Gallery</a></li>
               <li class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="/Master02/Blog/Photography/Exercises/Exercises.html">Exercises</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Photography/Exercises/Exercises.html">Exercises</a></li>
             </ul>
           </li>
           <li class="nav-item dropend">
             <a id="missionDrop" class="nav-link dropdown-toggle" role="button" href="#" data-bs-toggle="dropdown" aria-expanded="false">Mission</a>
             <ul class="dropdown-menu text-center mx-auto" aria-labelledby="missionDrop">
-              <li><a class="dropdown-item" href="/Master02/Blog/Mission/Vision/missionStart.html">Vision</a></li>
-              <li><a class="dropdown-item" href="/Master02/Blog/Mission/About/aboutMe.html">About</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Mission/Vision/missionStart.html">Vision</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Mission/About/aboutMe.html">About</a></li>
               <li class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="/Master02/Blog/Mission/Templates/Templates.html">Templates</a></li>
+              <li><a class="dropdown-item" href="../Master02/Blog/Mission/Templates/Templates.html">Templates</a></li>
             </ul>
           </li>
         </ul>
       </div>
-      <button class="btn btn-outline-light" type="button" name="button" aria-controls="#Bottom" aria-label="Bottom"><i class="fas fa-angle-double-down"></i></button>
+      <button class="btn btn-outline-light" type="button" name="button" aria-controls="Bottom" aria-label="Bottom"><i class="fas fa-angle-double-down"></i></button>
     </div>
   </nav>
     <!-- Header Here -->
@@ -67,10 +67,8 @@
     <!-- Content Here  -->
 
     <!-- Section Pagination Here -->
-    
-    <!-- Footer Here -->
 
     <!-- JS and Popper Scripts -->
-    <script src="/Master02/Styles/Bv5/js/bootstrap.bundle.min.js"></script>
+    <script src="../Master02/Styles/Bv5/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
