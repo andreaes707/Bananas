@@ -39,4 +39,4 @@ _Built with html and css;_
 #### Thanks to Bootstrap the display is magnificent as well as promising. 
 ## Page Links
 * [Home](/Master/Master02/Home.html)
-* [Quotes Page](/Master/Master02/Blog/Quotes/Quotes.html)
+* [Quotes Page](/Master/Master02/Quotes.html)
