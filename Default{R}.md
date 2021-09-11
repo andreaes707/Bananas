@@ -6,7 +6,7 @@
       <!-- Site Navigation Here  -->
   <nav id="Top" class="navbar navbar-expand-lg text-align-center align-items-center justify-content-evenly navbar-dark bg-danger">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Site Navigation</a>
+      <a class="navbar-brand" href="#improvisionMission.html">IMPROVISION</a>
       <button class="btn btn-lg btn-outline-dark navbar-toggler" type="button" name="navButton" data-bs-toggle="collapse" data-bs-target="#navBar" aria-controls="navBar" aria-expanded="false" aria-label="Toggle Navigation">
         <i class="fas fa-biohazard"></i>
       </button>
@@ -48,7 +48,7 @@
           </li>
         </ul>
       </div>
-      <button class="btn btn-outline-light" type="button" name="button" aria-controls="Bottom" aria-label="Bottom"><i class="fas fa-angle-double-down"></i></button>
+      <button class="btn btn-outline-light" type="button" name="button" data-bs-toggle="button" data-bs-target="#Bottom" aria-controls="Bottom" aria-label="Bottom"><i class="fas fa-angle-double-down"></i></button>
     </div>
   </nav>
  ```
