@@ -37,3 +37,6 @@ _Built with html and css;_
 ### ++ Styles
 
 #### Thanks to Bootstrap the display is magnificent as well as promising. 
+## Page Links
+* [Home](/Master02/Home.html)
+* [Quotes Page](/Master02/Blog/Quotes/Quotes.html)
