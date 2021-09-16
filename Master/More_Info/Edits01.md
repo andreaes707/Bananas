@@ -31,6 +31,7 @@ Photography: | Gallery / / Exercises
 ### Vision
 ```
 Vision: | Mission / About / Templates
+```
 
 ---
 ## Sitemap info
