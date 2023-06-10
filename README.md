@@ -6,8 +6,8 @@ _Originaly built with html and css_
 
 __Now built with Markdown__
 
-# **Core:**
-## {Navigation}
+# [Core Components](Components{S}.md)
+## Deep Navigation
 * [ ] Home
 * [ ] Greet
   * [ ] Blogs
