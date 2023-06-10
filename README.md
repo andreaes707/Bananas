@@ -2,14 +2,15 @@
 #### README.md for Bananas
 
 ## My new random website
-_Built with html and css;_
+_Originaly built with html and css_
+__Now built with Markdown__
 
 # **Core:**
 ## {Navigation}
 * [ ] Home
 * [ ] Greet
   * [ ] Blogs
-    * [ ] Greet
+    * [x] Greet
     * [ ] Recent
    * [ ] Article
      * [ ] Stories
