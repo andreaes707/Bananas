@@ -3,6 +3,7 @@
 
 ## My new random website
 _Originaly built with html and css_
+
 __Now built with Markdown__
 
 # **Core:**
@@ -18,7 +19,7 @@ __Now built with Markdown__
   * ~ ~ ~ ~ ~
    * [ ] Adventures
    * [ ] Guide
- * [ ] Resources
+ * [x] Resources
    * glossary
    * categories
    * references
