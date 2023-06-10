@@ -3,18 +3,18 @@
 - [ ] Footer
 - [ ] Static{default}
 - [ ] Weekly Article(s)
-- [ x ] Greet
+- [x] Greet
 ## Core Pages
 - [ ] Home
 - [ ] Blog
-- [ x ] Inspiration
+- [x] Inspiration
 - [ ] Mission
   - [ ] Mission
-  - [ x ] About
+  - [x] About
   - [ ] Templates
 - [ ] Photography
   - [ ] Gallery
    ----
   - [ ] Exercises
-- [ x ] Resource Page
+- [x] Resource Page
   - [ ] 
